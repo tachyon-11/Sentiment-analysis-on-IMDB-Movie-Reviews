@@ -32,7 +32,7 @@ I have used the following dataset available on Kaggle to train and test my model
      I encoded my tweets in form of vector in form input to the neural network and trained the model.
      I got an accuracy of 87.81 %
 
-## Exploratory Data Analysis
+# Exploratory Data Analysis
 
 I used Wordcloud to form the Word Cloud for positive as well as negative sentiment tweets to get a overview of most of the words used in those tweets
 
