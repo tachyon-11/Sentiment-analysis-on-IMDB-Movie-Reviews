@@ -5,7 +5,7 @@ The aim of this project is to perform sentiment analysis on Movies reviews from 
 # Files
 I have used the following dataset available on Kaggle to train and test my models [Link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
-## Procedure
+# Procedure
 
  1. ### Performed Data Analysis and Pre-processing like :
       <ul>
