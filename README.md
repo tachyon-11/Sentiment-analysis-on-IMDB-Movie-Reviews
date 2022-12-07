@@ -36,3 +36,10 @@ I have used the following dataset available on Kaggle to train and test my model
 
 I used Wordcloud to form the Word Cloud for positive as well as negative sentiment tweets to get a overview of most of the words used in those tweets
 
+# Possible Improvements
+<ul>
+<li>Sometimes some sentences may have sarcasm or use of oxymorons which this model won't be able to understand
+<li>This model doesn't put emphaisis on comparative and superlative degree of word and doesn't give them extra emphasis than normal words
+<li>Currently this model is not taking into consideration any emoticons hence causing it to miss on important information regarding the review
+</ul>
+
